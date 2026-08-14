@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 495,249 | 🐛 100 | 📅 2026-06-30
+:target: <https://github.com/sindresorhus/awesome> ⭐ 495,628 | 🐛 100 | 📅 2026-06-30
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 313,731 | 🐛 26 | 🌐 Python | 📅 2026-08-05
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 495,249 | 🐛 100 | 📅 2026-06-30
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 313,913 | 🐛 26 | 🌐 Python | 📅 2026-08-05
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 495,628 | 🐛 100 | 📅 2026-06-30
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -108,7 +108,7 @@ Inspired by Ruby on Rails' migrations, SQLAlchemy Migrate provides
 a way to deal with database schema changes in SQLAlchemy projects.
 
 .. \_Alembic: <https://alembic.readthedocs.io/>
-.. \_alembic-git-revisions: <https://github.com/Mergifyio/alembic-git-revisions> ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-08-13
+.. \_alembic-git-revisions: <https://github.com/Mergifyio/alembic-git-revisions> ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-08-14
 .. \_sqlalchemy-migrate: <https://sqlalchemy-migrate.readthedocs.io/>
 
 ## Dialects
@@ -131,7 +131,7 @@ core support and its own asynchronous ORM interface.
 .. \_Sphinx: <https://sphinxsearch.com/>
 .. \_sphinxalchemy: <https://sphinxalchemy.readthedocs.io/>
 .. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,794 | 🐛 54 | 🌐 Python | 📅 2022-02-12
-.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,062 | 🐛 291 | 🌐 Python | 📅 2026-02-27
+.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,065 | 🐛 291 | 🌐 Python | 📅 2026-02-27
 
 ## Documentation
 
@@ -159,7 +159,7 @@ and SqlAlchemy's mutable facility, Also supports multiple stores per context.
 
 .. \_filedepot: <https://depot.readthedocs.io/>
 .. \_SQLAlchemy-ImageAttach: <https://sqlalchemy-imageattach.readthedocs.io/>
-.. \_sqlalchemy-media: <https://github.com/pylover/sqlalchemy-media> ⭐ 92 | 🐛 20 | 🌐 Python | 📅 2023-05-25
+.. \_sqlalchemy-media: <https://github.com/pylover/sqlalchemy-media> ⭐ 92 | 🐛 21 | 🌐 Python | 📅 2023-05-25
 
 ## Forms and Data Validations
 
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,078 | 🐛 210 | 🌐 Python | 📅 2026-08-13
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,081 | 🐛 210 | 🌐 Python | 📅 2026-08-14
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,531 | 🐛 586 | 🌐 Python | 📅 2026-08-12
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,537 | 🐛 588 | 🌐 Python | 📅 2026-08-14
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -343,7 +343,7 @@ Runs the actual upgrade/downgrade cycle with real data and does static
 analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
-.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,805 | 🐛 208 | 🌐 Python | 📅 2026-01-01
+.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,806 | 🐛 208 | 🌐 Python | 📅 2026-01-01
 .. \_mixer: <https://github.com/klen/mixer> ⭐ 955 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-08-03
 
@@ -378,7 +378,7 @@ simple API. It writes SQL so you don't have to, and it easily bolts onto
 existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
-.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,491 | 🐛 365 | 🌐 Python | 📅 2026-08-12
+.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,494 | 🐛 363 | 🌐 Python | 📅 2026-08-14
 .. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 16 | 🌐 Python | 📅 2025-06-07
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
@@ -495,7 +495,7 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_pyramid\_sqlalchemy: <https://pyramid-sqlalchemy.readthedocs.io/>
 .. \_sacrud: <https://sacrud.readthedocs.io/>
 .. \_SQLA-wrapper: <https://github.com/jpscaletti/sqla-wrapper> ⚠️ Archived
-.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,408 | 🐛 8 | 🌐 Python | 📅 2026-08-11
+.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,408 | 🐛 8 | 🌐 Python | 📅 2026-08-13
 .. \_Zope: <https://www.zope.org/>
 .. \_zope.sqlalchemy: <https://pypi.org/project/zope.sqlalchemy/>
 .. \_context-async-sqlalchemy: <https://github.com/krylosov-aa/context-async-sqlalchemy> ⭐ 61 | 🐛 6 | 🌐 Python | 📅 2026-06-14
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
