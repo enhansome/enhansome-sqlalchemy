@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 498,076 | 🐛 105 | 📅 2026-08-18
+:target: <https://github.com/sindresorhus/awesome> ⭐ 498,509 | 🐛 104 | 📅 2026-08-21
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 315,093 | 🐛 17 | 🌐 Python | 📅 2026-08-16
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 498,076 | 🐛 105 | 📅 2026-08-18
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 315,258 | 🐛 17 | 🌐 Python | 📅 2026-08-21
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 498,509 | 🐛 104 | 📅 2026-08-21
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -88,7 +88,7 @@ Various utility functions, new data types and helpers for SQLAlchemy
 * Model mixins: Timestamp (created, updated times)
 
 .. \_SQLAlchemy-Enum34: <https://github.com/spoqa/sqlalchemy-enum34> ⭐ 50 | 🐛 4 | 🌐 Python | 📅 2021-04-14
-.. \_SQLAlchemy-Utc: <https://github.com/spoqa/sqlalchemy-utc> ⭐ 103 | 🐛 7 | 🌐 Python | 📅 2022-08-17
+.. \_SQLAlchemy-Utc: <https://github.com/spoqa/sqlalchemy-utc> ⭐ 102 | 🐛 7 | 🌐 Python | 📅 2022-08-17
 .. \_SQLAlchemy-Utils: <https://sqlalchemy-utils.readthedocs.io/>
 
 ## Database Migration Tools
@@ -108,7 +108,7 @@ Inspired by Ruby on Rails' migrations, SQLAlchemy Migrate provides
 a way to deal with database schema changes in SQLAlchemy projects.
 
 .. \_Alembic: <https://alembic.readthedocs.io/>
-.. \_alembic-git-revisions: <https://github.com/Mergifyio/alembic-git-revisions> ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-08-19
+.. \_alembic-git-revisions: <https://github.com/Mergifyio/alembic-git-revisions> ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-08-21
 .. \_sqlalchemy-migrate: <https://sqlalchemy-migrate.readthedocs.io/>
 
 ## Dialects
@@ -130,8 +130,8 @@ core support and its own asynchronous ORM interface.
 .. \_redshift\_sqlalchemy: <https://github.com/binarydud/redshift_sqlalchemy> ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2015-12-07
 .. \_Sphinx: <https://sphinxsearch.com/>
 .. \_sphinxalchemy: <https://sphinxalchemy.readthedocs.io/>
-.. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,794 | 🐛 54 | 🌐 Python | 📅 2022-02-12
-.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,067 | 🐛 299 | 🌐 Python | 📅 2026-02-27
+.. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,793 | 🐛 54 | 🌐 Python | 📅 2022-02-12
+.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,069 | 🐛 299 | 🌐 Python | 📅 2026-02-27
 
 ## Documentation
 
@@ -248,7 +248,7 @@ pgai allows to easily create vector embeddings for sqlalchemy models
 and takes care of any synchronization effort. Built on top of postgres
 and pgvector.
 
-.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,514 | 🐛 4 | 🌐 Python | 📅 2026-07-06
+.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,515 | 🐛 4 | 🌐 Python | 📅 2026-07-06
 .. \_pgai: <https://github.com/timescale/pgai/blob/main/docs/vectorizer/python-integration.md> ⚠️ Archived
 
 ## Internationalizations
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,094 | 🐛 214 | 🌐 Python | 📅 2026-08-18
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,097 | 🐛 211 | 🌐 Python | 📅 2026-08-21
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,573 | 🐛 580 | 🌐 Python | 📅 2026-08-19
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,582 | 🐛 581 | 🌐 Python | 📅 2026-08-21
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -344,7 +344,7 @@ analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
 .. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,806 | 🐛 209 | 🌐 Python | 📅 2026-01-01
-.. \_mixer: <https://github.com/klen/mixer> ⭐ 955 | 🐛 49 | 🌐 Python | 📅 2024-03-08
+.. \_mixer: <https://github.com/klen/mixer> ⭐ 954 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-08-03
 
 ## Thin Abstractions
@@ -379,7 +379,7 @@ existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
 .. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,497 | 🐛 370 | 🌐 Python | 📅 2026-08-19
-.. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 16 | 🌐 Python | 📅 2025-06-07
+.. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 160 | 🐛 16 | 🌐 Python | 📅 2025-06-07
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
 .. \_SQLModel: <https://sqlmodel.tiangolo.com/>
@@ -495,7 +495,7 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_pyramid\_sqlalchemy: <https://pyramid-sqlalchemy.readthedocs.io/>
 .. \_sacrud: <https://sacrud.readthedocs.io/>
 .. \_SQLA-wrapper: <https://github.com/jpscaletti/sqla-wrapper> ⚠️ Archived
-.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,407 | 🐛 9 | 🌐 Python | 📅 2026-08-13
+.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,406 | 🐛 9 | 🌐 Python | 📅 2026-08-13
 .. \_Zope: <https://www.zope.org/>
 .. \_zope.sqlalchemy: <https://pypi.org/project/zope.sqlalchemy/>
 .. \_context-async-sqlalchemy: <https://github.com/krylosov-aa/context-async-sqlalchemy> ⭐ 61 | 🐛 6 | 🌐 Python | 📅 2026-06-14
@@ -517,8 +517,8 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 .. \_paginate\_sqlalchemy: <https://github.com/Pylons/paginate_sqlalchemy> ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2020-03-23
 .. \_sandman2: <https://github.com/jeffknupp/sandman2> ⭐ 2,042 | 🐛 45 | 🌐 Python | 📅 2026-08-17
-.. \_sqlalchemy\_mixins: <https://github.com/absent1706/sqlalchemy-mixins> ⭐ 788 | 🐛 28 | 🌐 Python | 📅 2024-09-08
+.. \_sqlalchemy\_mixins: <https://github.com/absent1706/sqlalchemy-mixins> ⭐ 787 | 🐛 28 | 🌐 Python | 📅 2024-09-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
