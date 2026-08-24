@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+:target: <https://github.com/sindresorhus/awesome> ⭐ 499,526 | 🐛 106 | 📅 2026-08-21
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 315,798 | 🐛 17 | 🌐 Python | 📅 2026-08-24
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 315,803 | 🐛 17 | 🌐 Python | 📅 2026-08-24
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 499,526 | 🐛 106 | 📅 2026-08-21
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,604 | 🐛 578 | 🌐 Python | 📅 2026-08-24
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,605 | 🐛 578 | 🌐 Python | 📅 2026-08-24
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
