@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499526
+            "stars": 499694
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315803
+            "stars": 315914
           }
         }
       ],
@@ -146,17 +146,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes",
+          "title": "sqlalchemy/sqlalchemy",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 159271175,
             "language": "Python",
-            "last_commit": "2026-08-24T04:26:57Z",
+            "last_commit": "2026-08-24T19:56:29Z",
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12102
+            "stars": 12105
           }
         }
       ],
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-24T14:20:17Z",
+            "last_commit": "2026-08-24T16:33:47Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28605
+            "stars": 28607
           }
         }
       ],
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 3342046,
             "language": "Python",
-            "last_commit": "2026-08-19T05:43:37Z",
+            "last_commit": "2026-08-24T18:15:14Z",
             "owner": "RDFLib",
             "repo": "rdflib",
             "stars": 2498
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:41.994Z",
+    "last_updated": "2026-08-25T05:54:23.713Z",
     "original_repository": "dahlia/awesome-sqlalchemy",
     "original_repository_id": 24311052,
     "original_repository_sha": "f30ee07119594c771a5767b5dd07f461b859cec6",
