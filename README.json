@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499805
+            "stars": 500096
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315975
+            "stars": 316177
           }
         }
       ],
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-24T19:56:29Z",
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12106
+            "stars": 12109
           }
         }
       ],
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-25T08:24:25Z",
+            "last_commit": "2026-08-26T11:57:15Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28609
+            "stars": 28621
           }
         }
       ],
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 3342046,
             "language": "Python",
-            "last_commit": "2026-08-24T18:15:14Z",
+            "last_commit": "2026-08-26T05:43:01Z",
             "owner": "RDFLib",
             "repo": "rdflib",
             "stars": 2499
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:59:49.945Z",
+    "last_updated": "2026-08-26T14:01:31.212Z",
     "original_repository": "dahlia/awesome-sqlalchemy",
     "original_repository_id": 24311052,
     "original_repository_sha": "f30ee07119594c771a5767b5dd07f461b859cec6",
