@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500096
+            "stars": 500368
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316177
+            "stars": 316384
           }
         }
       ],
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 159271175,
             "language": "Python",
-            "last_commit": "2026-08-24T19:56:29Z",
+            "last_commit": "2026-08-26T16:47:23Z",
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12109
+            "stars": 12112
           }
         }
       ],
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-26T11:57:15Z",
+            "last_commit": "2026-08-27T11:34:38Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28621
+            "stars": 28634
           }
         }
       ],
@@ -269,9 +269,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:01:31.212Z",
-    "original_repository": "dahlia/awesome-sqlalchemy",
-    "original_repository_id": 24311052,
+    "last_updated": "2026-08-27T12:06:31.470Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 24311052,
+      "language": "Python",
+      "last_commit": "2026-06-08T08:36:57Z",
+      "owner": "dahlia",
+      "repo": "awesome-sqlalchemy",
+      "stars": 3055
+    },
     "original_repository_sha": "f30ee07119594c771a5767b5dd07f461b859cec6",
     "enhanced_repository": "enhansome/enhansome-sqlalchemy",
     "enhanced_repository_description": null,
