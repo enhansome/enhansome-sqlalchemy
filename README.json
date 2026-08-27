@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500368
+            "stars": 500525
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316384
+            "stars": 316504
           }
         }
       ],
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-26T16:47:23Z",
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12112
+            "stars": 12115
           }
         }
       ],
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-27T11:34:38Z",
+            "last_commit": "2026-08-27T18:08:40Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28634
+            "stars": 28642
           }
         }
       ],
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:31.470Z",
+    "last_updated": "2026-08-27T22:55:53.493Z",
     "original_repository_info": {
       "archived": false,
       "id": 24311052,
