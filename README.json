@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500525
-          }
+            "stars": 500845
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316504
-          }
+            "stars": 316765
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "Mergifyio",
             "repo": "alembic-git-revisions",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Database Migration Tools"
@@ -73,7 +76,8 @@
             "owner": "binarymatt",
             "repo": "redshift_sqlalchemy",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Dialects"
@@ -94,7 +98,8 @@
             "owner": "pylover",
             "repo": "sqlalchemy-media",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "File and Image Attachments"
@@ -115,7 +120,8 @@
             "owner": "stefanofontanelli",
             "repo": "ColanderAlchemy",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Forms and Data Validations"
@@ -136,7 +142,8 @@
             "owner": "djrobstep",
             "repo": "sqlakeyset",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Query helpers"
@@ -153,11 +160,12 @@
             "archived": false,
             "id": 159271175,
             "language": "Python",
-            "last_commit": "2026-08-26T16:47:23Z",
+            "last_commit": "2026-08-28T20:18:06Z",
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12115
-          }
+            "stars": 12118
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Recipes"
@@ -174,11 +182,12 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-27T18:08:40Z",
+            "last_commit": "2026-08-28T20:22:21Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28642
-          }
+            "stars": 28659
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Serialization and deserialization"
@@ -199,7 +208,8 @@
             "owner": "uber",
             "repo": "charlatan",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Testing"
@@ -219,8 +229,9 @@
             "last_commit": "2026-08-26T05:43:01Z",
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2499
-          }
+            "stars": 2500
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Thin Abstractions"
@@ -241,7 +252,8 @@
             "owner": "fschulze",
             "repo": "sqlalchemy_schemadisplay",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Visualizations"
@@ -262,14 +274,15 @@
             "owner": "iurisilvio",
             "repo": "bottle-sqlalchemy",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T23:00:16.846Z"
         }
       ],
       "title": "Web"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:53.493Z",
+    "last_updated": "2026-08-28T23:00:16.846Z",
     "original_repository_info": {
       "archived": false,
       "id": 24311052,
