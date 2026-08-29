@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+:target: <https://github.com/sindresorhus/awesome> ⭐ 501,073 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 316,966 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 501,073 | 🐛 105 | 📅 2026-08-21
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,119 | 🐛 208 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,119 | 🐛 207 | 🌐 Python | 📅 2026-08-29
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,659 | 🐛 578 | 🌐 Python | 📅 2026-08-28
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,662 | 🐛 575 | 🌐 Python | 📅 2026-08-29
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -378,7 +378,7 @@ simple API. It writes SQL so you don't have to, and it easily bolts onto
 existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
-.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,500 | 🐛 371 | 🌐 Python | 📅 2026-08-26
+.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,501 | 🐛 371 | 🌐 Python | 📅 2026-08-26
 .. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 16 | 🌐 Python | 📅 2025-06-07
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
