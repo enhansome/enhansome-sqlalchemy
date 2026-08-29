@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500845
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         },
@@ -26,12 +37,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316765
+            "stars": 316804,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -48,12 +71,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic Alembic migration chaining based on git commit history",
+            "homepage": "https://julien.danjou.info/blog/fixing-alembics-multiple-heads-problem-with-git/",
             "id": 1164538356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T06:08:46Z",
+            "open_issues": 0,
             "owner": "Mergifyio",
             "repo": "alembic-git-revisions",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "alembic",
+              "database-migrations",
+              "flask",
+              "git",
+              "migrations",
+              "python",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -70,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Redshift SQLAlchemy Dialect",
+            "homepage": null,
             "id": 9458258,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-12-07T21:37:52Z",
+            "open_issues": 4,
             "owner": "binarymatt",
             "repo": "redshift_sqlalchemy",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -92,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database",
+            "homepage": "http://sqlalchemy-media.dobisel.com/",
             "id": 68097204,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-25T07:09:53Z",
+            "open_issues": 20,
             "owner": "pylover",
             "repo": "sqlalchemy-media",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "assets-management",
+              "orm",
+              "python-3-5",
+              "python-3-6",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -114,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ColanderAlchemy helps you autogenerating Colander schemas based on SQLAlchemy mapped objects.",
+            "homepage": null,
             "id": 3816192,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-11T12:59:38Z",
+            "open_issues": 18,
             "owner": "stefanofontanelli",
             "repo": "ColanderAlchemy",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -136,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "offset-free paging for sqlalchemy",
+            "homepage": null,
             "id": 66554135,
             "language": "Python",
-            "last_commit": "2026-04-03T13:09:42Z",
+            "license": "Unlicense",
+            "last_commit": "2026-08-29T03:05:43Z",
+            "open_issues": 3,
             "owner": "djrobstep",
             "repo": "sqlakeyset",
-            "stars": 395
+            "stars": 395,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -158,12 +220,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Database Toolkit for Python",
+            "homepage": "https://www.sqlalchemy.org",
             "id": 159271175,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:18:06Z",
+            "open_issues": 208,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12118
+            "stars": 12119,
+            "topics": [
+              "python",
+              "sql",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -180,12 +251,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data validation using Python type hints",
+            "homepage": "https://pydantic.dev/docs/validation",
             "id": 90194616,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:22:21Z",
+            "open_issues": 578,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28659
+            "stars": 28659,
+            "topics": [
+              "hints",
+              "json-schema",
+              "parsing",
+              "pydantic",
+              "python",
+              "python310",
+              "python311",
+              "python312",
+              "python313",
+              "python39",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -202,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Python library to efficiently manage and install database fixtures",
+            "homepage": "https://charlatan.readthedocs.org/en/latest/",
             "id": 8042521,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-06T20:15:28Z",
+            "open_issues": 8,
             "owner": "uber",
             "repo": "charlatan",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -224,12 +317,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",
+            "homepage": "https://rdflib.readthedocs.org",
             "id": 3342046,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T05:43:01Z",
+            "open_issues": 371,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2500
+            "stars": 2500,
+            "topics": [
+              "graph",
+              "json-ld",
+              "linked-data",
+              "n3",
+              "namespace",
+              "nquads",
+              "ntriples",
+              "parser",
+              "pypi",
+              "python",
+              "python-library",
+              "rdf",
+              "rdf-xml",
+              "rdflib",
+              "semantic-web",
+              "serializer",
+              "sparql",
+              "turtle",
+              "turtle-rdf",
+              "uri"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -246,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1229615,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-19T08:47:56Z",
+            "open_issues": 8,
             "owner": "fschulze",
             "repo": "sqlalchemy_schemadisplay",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -268,12 +392,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bottle SQLAlchemy plugin",
+            "homepage": null,
             "id": 2290470,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-05-18T14:29:43Z",
+            "open_issues": 0,
             "owner": "iurisilvio",
             "repo": "bottle-sqlalchemy",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "bottlepy",
+              "python",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:00:16.846Z"
         }
@@ -282,15 +415,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:00:16.846Z",
+    "last_updated": "2026-08-29T04:19:12.587Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome tools for SQLAlchemy",
+      "homepage": null,
       "id": 24311052,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-06-08T08:36:57Z",
+      "open_issues": 10,
       "owner": "dahlia",
       "repo": "awesome-sqlalchemy",
-      "stars": 3055
+      "stars": 3055,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "databases",
+        "list",
+        "orm",
+        "python",
+        "rdbms",
+        "sqlalchemy"
+      ]
     },
     "original_repository_sha": "f30ee07119594c771a5767b5dd07f461b859cec6",
     "enhanced_repository": "enhansome/enhansome-sqlalchemy",

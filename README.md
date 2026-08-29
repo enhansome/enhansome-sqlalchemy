@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 500,845 | 🐛 105 | 📅 2026-08-21
+:target: <https://github.com/sindresorhus/awesome> ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 316,765 | 🐛 18 | 🌐 Python | 📅 2026-08-25
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 500,845 | 🐛 105 | 📅 2026-08-21
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -302,11 +302,11 @@ This library implements keyset-based paging for SQLAlchemy (both ORM and core).
 This library has been tested with PostgreSQL and MariaDB/MySQL.
 It should work with other SQLAlchemy-supported databases to provided they support `row(` syntax.
 
-.. \_sqlakeyset: <https://github.com/djrobstep/sqlakeyset> ⭐ 395 | 🐛 4 | 🌐 Python | 📅 2026-04-03
+.. \_sqlakeyset: <https://github.com/djrobstep/sqlakeyset> ⭐ 395 | 🐛 3 | 🌐 Python | 📅 2026-08-29
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,118 | 🐛 208 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,119 | 🐛 208 | 🌐 Python | 📅 2026-08-28
 
 ## Serialization and deserialization
 
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
