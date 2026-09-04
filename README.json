@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 502634,
+            "stars": 502961,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317969,
+            "stars": 318228,
             "topics": [
               "awesome",
               "awesome-list",
@@ -225,11 +225,11 @@
             "id": 159271175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T20:54:06Z",
+            "last_commit": "2026-09-04T15:16:28Z",
             "open_issues": 206,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12130,
+            "stars": 12133,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:45:26Z",
-            "open_issues": 576,
+            "last_commit": "2026-09-04T11:14:13Z",
+            "open_issues": 577,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28704,
+            "stars": 28716,
             "topics": [
               "hints",
               "json-schema",
@@ -326,7 +326,7 @@
             "open_issues": 376,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2505,
+            "stars": 2506,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:01:23.222Z",
+    "last_updated": "2026-09-04T16:50:01.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
