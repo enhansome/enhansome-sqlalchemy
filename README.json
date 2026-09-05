@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 502961,
+            "stars": 503230,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318228,
+            "stars": 318424,
             "topics": [
               "awesome",
               "awesome-list",
@@ -172,7 +172,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-07-11T12:59:38Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "stefanofontanelli",
             "repo": "ColanderAlchemy",
             "stars": 65,
@@ -225,11 +225,11 @@
             "id": 159271175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:16:28Z",
-            "open_issues": 206,
+            "last_commit": "2026-09-04T20:37:54Z",
+            "open_issues": 203,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12133,
+            "stars": 12134,
             "topics": [
               "python",
               "sql",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-04T11:14:13Z",
-            "open_issues": 577,
+            "open_issues": 578,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28716,
+            "stars": 28720,
             "topics": [
               "hints",
               "json-schema",
@@ -326,7 +326,7 @@
             "open_issues": 376,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:50:01.707Z",
+    "last_updated": "2026-09-05T16:00:13.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
