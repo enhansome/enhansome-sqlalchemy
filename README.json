@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507419,
+            "stars": 507781,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,11 +42,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T16:48:04Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-18T22:11:03Z",
+            "open_issues": 26,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321487,
+            "stars": 321696,
             "topics": [
               "awesome",
               "awesome-list",
@@ -229,7 +229,7 @@
             "open_issues": 209,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12164,
+            "stars": 12166,
             "topics": [
               "python",
               "sql",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T08:12:38Z",
-            "open_issues": 579,
+            "open_issues": 581,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28821,
+            "stars": 28831,
             "topics": [
               "hints",
               "json-schema",
@@ -326,7 +326,7 @@
             "open_issues": 383,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2514,
+            "stars": 2515,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:03:30.448Z",
+    "last_updated": "2026-09-19T16:24:29.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
