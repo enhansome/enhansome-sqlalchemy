@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 509338,
+            "stars": 509843,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 322523,
+            "stars": 322729,
             "topics": [
               "awesome",
               "awesome-list",
@@ -76,8 +76,8 @@
             "id": 1164538356,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T17:14:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-24T15:07:49Z",
+            "open_issues": 0,
             "owner": "Mergifyio",
             "repo": "alembic-git-revisions",
             "stars": 29,
@@ -225,11 +225,11 @@
             "id": 159271175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T17:07:32Z",
-            "open_issues": 211,
+            "last_commit": "2026-09-24T17:12:20Z",
+            "open_issues": 207,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12176,
+            "stars": 12178,
             "topics": [
               "python",
               "sql",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-23T02:34:21Z",
-            "open_issues": 586,
+            "open_issues": 591,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28854,
+            "stars": 28868,
             "topics": [
               "hints",
               "json-schema",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:49:48.256Z",
+    "last_updated": "2026-09-24T17:50:21.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
