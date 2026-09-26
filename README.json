@@ -19,7 +19,7 @@
             "open_issues": 107,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 510339,
+            "stars": 510837,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T08:04:34Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 322946,
+            "stars": 323216,
             "topics": [
               "awesome",
               "awesome-list",
@@ -226,10 +226,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-25T17:35:27Z",
-            "open_issues": 207,
+            "open_issues": 210,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12182,
+            "stars": 12185,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T02:23:43Z",
-            "open_issues": 588,
+            "last_commit": "2026-09-26T16:53:48Z",
+            "open_issues": 587,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28874,
+            "stars": 28886,
             "topics": [
               "hints",
               "json-schema",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:55:39.696Z",
+    "last_updated": "2026-09-26T17:06:24.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
