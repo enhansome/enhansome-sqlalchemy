@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 107,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 510837,
+            "stars": 511360,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,11 +42,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:04:34Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-27T13:05:53Z",
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 323216,
+            "stars": 323501,
             "topics": [
               "awesome",
               "awesome-list",
@@ -142,7 +142,7 @@
             "open_issues": 20,
             "owner": "pylover",
             "repo": "sqlalchemy-media",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "assets-management",
               "orm",
@@ -229,7 +229,7 @@
             "open_issues": 210,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12185,
+            "stars": 12189,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T16:53:48Z",
-            "open_issues": 587,
+            "last_commit": "2026-09-27T16:01:59Z",
+            "open_issues": 588,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28886,
+            "stars": 28889,
             "topics": [
               "hints",
               "json-schema",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:06:24.642Z",
+    "last_updated": "2026-09-27T17:41:52.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
@@ -424,7 +424,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-06-08T08:36:57Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "dahlia",
       "repo": "awesome-sqlalchemy",
       "stars": 3061,
