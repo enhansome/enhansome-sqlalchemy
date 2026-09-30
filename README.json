@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512363,
+            "stars": 512800,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324042,
+            "stars": 324285,
             "topics": [
               "awesome",
               "awesome-list",
@@ -226,10 +226,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T17:27:17Z",
-            "open_issues": 210,
+            "open_issues": 212,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12190,
+            "stars": 12192,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T18:14:53Z",
-            "open_issues": 590,
+            "last_commit": "2026-09-29T21:56:56Z",
+            "open_issues": 587,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28898,
+            "stars": 28908,
             "topics": [
               "hints",
               "json-schema",
@@ -322,11 +322,11 @@
             "id": 3342046,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T18:32:01Z",
+            "last_commit": "2026-09-30T05:43:18Z",
             "open_issues": 385,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2519,
+            "stars": 2521,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:35:16.622Z",
+    "last_updated": "2026-09-30T18:25:08.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
