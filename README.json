@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512800,
+            "stars": 513193,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324285,
+            "stars": 324493,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "Mergifyio",
             "repo": "alembic-git-revisions",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "alembic",
               "database-migrations",
@@ -225,11 +225,11 @@
             "id": 159271175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:27:17Z",
-            "open_issues": 212,
+            "last_commit": "2026-10-01T12:27:27Z",
+            "open_issues": 210,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12192,
+            "stars": 12194,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T21:56:56Z",
-            "open_issues": 587,
+            "last_commit": "2026-10-01T00:07:19Z",
+            "open_issues": 583,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28908,
+            "stars": 28918,
             "topics": [
               "hints",
               "json-schema",
@@ -326,7 +326,7 @@
             "open_issues": 385,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2521,
+            "stars": 2522,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:25:08.821Z",
+    "last_updated": "2026-10-01T18:49:52.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
@@ -427,7 +427,7 @@
       "open_issues": 11,
       "owner": "dahlia",
       "repo": "awesome-sqlalchemy",
-      "stars": 3062,
+      "stars": 3063,
       "topics": [
         "awesome",
         "awesome-list",
