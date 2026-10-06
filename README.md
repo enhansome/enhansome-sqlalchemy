@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 515,126 | 🐛 107 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 325,386 | 🐛 19 | 🌐 Python | 📅 2026-10-02
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 515,126 | 🐛 107 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 325,513 | 🐛 19 | 🌐 Python | 📅 2026-10-02
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -302,11 +302,11 @@ This library implements keyset-based paging for SQLAlchemy (both ORM and core).
 This library has been tested with PostgreSQL and MariaDB/MySQL.
 It should work with other SQLAlchemy-supported databases to provided they support `row(` syntax.
 
-.. \_sqlakeyset: <https://github.com/djrobstep/sqlakeyset> ⭐ 395 | 🐛 3 | 🌐 Python | 📅 2026-08-29
+.. \_sqlakeyset: <https://github.com/djrobstep/sqlakeyset> ⭐ 395 | 🐛 4 | 🌐 Python | 📅 2026-10-06
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,201 | 🐛 217 | 🌐 Python | 📅 2026-10-05
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,201 | 🐛 215 | 🌐 Python | 📅 2026-10-06
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,943 | 🐛 588 | 🌐 Python | 📅 2026-10-05
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,945 | 🐛 589 | 🌐 Python | 📅 2026-10-05
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -379,7 +379,7 @@ existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
 .. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,523 | 🐛 380 | 🌐 Python | 📅 2026-10-05
-.. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 15 | 🌐 Python | 📅 2026-09-29
+.. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 15 | 🌐 Python | 📅 2026-10-06
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
 .. \_SQLModel: <https://sqlmodel.tiangolo.com/>
@@ -488,7 +488,7 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_filteralchemy: <https://github.com/jmcarp/filteralchemy> ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2019-04-08
 .. \_Flask: <https://palletsprojects.com/p/flask/>
 .. \_Flask-SQLAlchemy: <https://pythonhosted.org/Flask-SQLAlchemy/>
-.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,065 | 🐛 132 | 🌐 Python | 📅 2026-10-04
+.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,064 | 🐛 132 | 🌐 Python | 📅 2026-10-04
 .. \_Pyramid: <https://trypyramid.com/>
 .. \_pyramid\_restler: <https://github.com/wylee/pyramid_restler> ⚠️ Archived
 .. \_pyramid\_sacrud: <https://pyramid-sacrud.readthedocs.io/>
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
