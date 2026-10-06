@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 515,557 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 325,513 | 🐛 19 | 🌐 Python | 📅 2026-10-02
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 325,612 | 🐛 19 | 🌐 Python | 📅 2026-10-02
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 515,557 | 🐛 106 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -58,7 +58,7 @@ vdm\_
 Versioned domain model. Python library for revisioning/versioning of databases.
 
 .. \_bemi-sqlalchemy: <https://github.com/BemiHQ/bemi-sqlalchemy> ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-07-04
-.. \_django-mptt: <https://github.com/django-mptt/django-mptt/> ⭐ 2,970 | 🐛 4 | 🌐 Python | 📅 2026-09-28
+.. \_django-mptt: <https://github.com/django-mptt/django-mptt/> ⭐ 2,969 | 🐛 4 | 🌐 Python | 📅 2026-09-28
 .. \_SQLAlchemy-Continuum: <https://sqlalchemy-continuum.readthedocs.io/>
 .. \_sqlalchemy\_mptt: <https://sqlalchemy-mptt.readthedocs.io/>
 .. \_SQLAlchemy-ORM-tree: <https://sqlalchemy-orm-tree.readthedocs.io/>
@@ -131,7 +131,7 @@ core support and its own asynchronous ORM interface.
 .. \_Sphinx: <https://sphinxsearch.com/>
 .. \_sphinxalchemy: <https://sphinxalchemy.readthedocs.io/>
 .. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12
-.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,098 | 🐛 274 | 🌐 Python | 📅 2026-10-05
+.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,099 | 🐛 274 | 🌐 Python | 📅 2026-10-06
 
 ## Documentation
 
@@ -292,7 +292,7 @@ Integrates with Flask-SQLAlchemy.
 .. \_flask\_debugtoolbar: <https://github.com/flask-debugtoolbar/flask-debugtoolbar>
 .. \_pyramid\_debugtoolbar: <https://github.com/Pylons/pyramid_debugtoolbar> ⭐ 96 | 🐛 44 | 🌐 Python | 📅 2026-08-02
 .. \_SQLTap: <https://github.com/inconshreveable/sqltap> ⭐ 361 | 🐛 10 | 🌐 Python | 📅 2023-05-31
-.. \_nplusone: <https://github.com/jmcarp/nplusone> ⭐ 1,068 | 🐛 24 | 🌐 Python | 📅 2022-11-25
+.. \_nplusone: <https://github.com/jmcarp/nplusone> ⭐ 1,068 | 🐛 23 | 🌐 Python | 📅 2022-11-25
 
 ## Query helpers
 
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,201 | 🐛 215 | 🌐 Python | 📅 2026-10-06
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,202 | 🐛 216 | 🌐 Python | 📅 2026-10-06
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,945 | 🐛 589 | 🌐 Python | 📅 2026-10-05
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,947 | 🐛 582 | 🌐 Python | 📅 2026-10-06
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -343,7 +343,7 @@ Runs the actual upgrade/downgrade cycle with real data and does static
 analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
-.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,810 | 🐛 209 | 🌐 Python | 📅 2026-01-01
+.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,809 | 🐛 209 | 🌐 Python | 📅 2026-01-01
 .. \_mixer: <https://github.com/klen/mixer> ⭐ 954 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-30
 
