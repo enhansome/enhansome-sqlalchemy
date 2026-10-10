@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 516,691 | 🐛 106 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 517,146 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 326,092 | 🐛 22 | 🌐 Python | 📅 2026-10-09
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 516,691 | 🐛 106 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 326,331 | 🐛 23 | 🌐 Python | 📅 2026-10-10
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 517,146 | 🐛 106 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -58,7 +58,7 @@ vdm\_
 Versioned domain model. Python library for revisioning/versioning of databases.
 
 .. \_bemi-sqlalchemy: <https://github.com/BemiHQ/bemi-sqlalchemy> ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-07-04
-.. \_django-mptt: <https://github.com/django-mptt/django-mptt/> ⭐ 2,969 | 🐛 4 | 🌐 Python | 📅 2026-09-28
+.. \_django-mptt: <https://github.com/django-mptt/django-mptt/> ⭐ 2,968 | 🐛 4 | 🌐 Python | 📅 2026-09-28
 .. \_SQLAlchemy-Continuum: <https://sqlalchemy-continuum.readthedocs.io/>
 .. \_sqlalchemy\_mptt: <https://sqlalchemy-mptt.readthedocs.io/>
 .. \_SQLAlchemy-ORM-tree: <https://sqlalchemy-orm-tree.readthedocs.io/>
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,209 | 🐛 212 | 🌐 Python | 📅 2026-10-09
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,211 | 🐛 214 | 🌐 Python | 📅 2026-10-09
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,963 | 🐛 583 | 🌐 Python | 📅 2026-10-09
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 28,972 | 🐛 586 | 🌐 Python | 📅 2026-10-09
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -343,7 +343,7 @@ Runs the actual upgrade/downgrade cycle with real data and does static
 analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
-.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,810 | 🐛 209 | 🌐 Python | 📅 2026-01-01
+.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,811 | 🐛 209 | 🌐 Python | 📅 2026-01-01
 .. \_mixer: <https://github.com/klen/mixer> ⭐ 953 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-30
 
@@ -488,7 +488,7 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_filteralchemy: <https://github.com/jmcarp/filteralchemy> ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2019-04-08
 .. \_Flask: <https://palletsprojects.com/p/flask/>
 .. \_Flask-SQLAlchemy: <https://pythonhosted.org/Flask-SQLAlchemy/>
-.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,066 | 🐛 132 | 🌐 Python | 📅 2026-10-04
+.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,066 | 🐛 132 | 🌐 Python | 📅 2026-10-10
 .. \_Pyramid: <https://trypyramid.com/>
 .. \_pyramid\_restler: <https://github.com/wylee/pyramid_restler> ⚠️ Archived
 .. \_pyramid\_sacrud: <https://pyramid-sacrud.readthedocs.io/>
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
