@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 520,334 | 🐛 105 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 520,836 | 🐛 105 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 328,148 | 🐛 21 | 🌐 Python | 📅 2026-10-17
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 520,334 | 🐛 105 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 328,395 | 🐛 24 | 🌐 Python | 📅 2026-10-17
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 520,836 | 🐛 105 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -248,7 +248,7 @@ pgai allows to easily create vector embeddings for sqlalchemy models
 and takes care of any synchronization effort. Built on top of postgres
 and pgvector.
 
-.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,535 | 🐛 5 | 🌐 Python | 📅 2026-10-17
+.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,536 | 🐛 5 | 🌐 Python | 📅 2026-10-17
 .. \_pgai: <https://github.com/timescale/pgai/blob/main/docs/vectorizer/python-integration.md> ⚠️ Archived
 
 ## Internationalizations
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,242 | 🐛 212 | 🌐 Python | 📅 2026-10-16
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,245 | 🐛 219 | 🌐 Python | 📅 2026-10-16
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,070 | 🐛 588 | 🌐 Python | 📅 2026-10-15
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,082 | 🐛 587 | 🌐 Python | 📅 2026-10-15
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -343,7 +343,7 @@ Runs the actual upgrade/downgrade cycle with real data and does static
 analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
-.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,810 | 🐛 209 | 🌐 Python | 📅 2026-01-01
+.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,811 | 🐛 209 | 🌐 Python | 📅 2026-01-01
 .. \_mixer: <https://github.com/klen/mixer> ⭐ 953 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-30
 
@@ -378,7 +378,7 @@ simple API. It writes SQL so you don't have to, and it easily bolts onto
 existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
-.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,532 | 🐛 378 | 🌐 Python | 📅 2026-10-16
+.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,533 | 🐛 379 | 🌐 Python | 📅 2026-10-16
 .. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 13 | 🌐 Python | 📅 2026-10-11
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
