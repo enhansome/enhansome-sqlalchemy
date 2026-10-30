@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 526741,
+            "stars": 527377,
             "topics": [
               "awesome",
               "awesome-list",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T12:38:48Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 331142,
+            "stars": 331365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -226,10 +226,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T16:01:18Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "sqlalchemy",
             "repo": "sqlalchemy",
-            "stars": 12271,
+            "stars": 12274,
             "topics": [
               "python",
               "sql",
@@ -256,11 +256,11 @@
             "id": 90194616,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T18:53:44Z",
-            "open_issues": 591,
+            "last_commit": "2026-10-30T18:33:05Z",
+            "open_issues": 597,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29226,
+            "stars": 29238,
             "topics": [
               "hints",
               "json-schema",
@@ -323,10 +323,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-28T16:45:24Z",
-            "open_issues": 336,
+            "open_issues": 338,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2541,
+            "stars": 2542,
             "topics": [
               "graph",
               "json-ld",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:55:57.630Z",
+    "last_updated": "2026-10-30T18:33:33.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for SQLAlchemy",
