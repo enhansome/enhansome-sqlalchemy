@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 528,426 | 🐛 105 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 529,649 | 🐛 104 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 331,762 | 🐛 24 | 🌐 Python | 📅 2026-11-01
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 528,426 | 🐛 105 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 332,013 | 🐛 24 | 🌐 Python | 📅 2026-11-02
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 529,649 | 🐛 104 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -290,7 +290,7 @@ nplusone detects unnecessary queries caused by lazy loading and unused eager loa
 Integrates with Flask-SQLAlchemy.
 
 .. \_flask\_debugtoolbar: <https://github.com/flask-debugtoolbar/flask-debugtoolbar>
-.. \_pyramid\_debugtoolbar: <https://github.com/Pylons/pyramid_debugtoolbar> ⭐ 96 | 🐛 44 | 🌐 Python | 📅 2026-08-02
+.. \_pyramid\_debugtoolbar: <https://github.com/Pylons/pyramid_debugtoolbar> ⭐ 95 | 🐛 44 | 🌐 Python | 📅 2026-08-02
 .. \_SQLTap: <https://github.com/inconshreveable/sqltap> ⭐ 361 | 🐛 10 | 🌐 Python | 📅 2023-05-31
 .. \_nplusone: <https://github.com/jmcarp/nplusone> ⭐ 1,070 | 🐛 23 | 🌐 Python | 📅 2022-11-25
 
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,276 | 🐛 214 | 🌐 Python | 📅 2026-11-01
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,277 | 🐛 214 | 🌐 Python | 📅 2026-11-02
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,260 | 🐛 596 | 🌐 Python | 📅 2026-11-01
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,274 | 🐛 595 | 🌐 Python | 📅 2026-11-02
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -378,7 +378,7 @@ simple API. It writes SQL so you don't have to, and it easily bolts onto
 existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
-.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,543 | 🐛 340 | 🌐 Python | 📅 2026-10-28
+.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,545 | 🐛 349 | 🌐 Python | 📅 2026-11-02
 .. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 13 | 🌐 Python | 📅 2026-10-11
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
@@ -488,14 +488,14 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_filteralchemy: <https://github.com/jmcarp/filteralchemy> ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2019-04-08
 .. \_Flask: <https://palletsprojects.com/p/flask/>
 .. \_Flask-SQLAlchemy: <https://pythonhosted.org/Flask-SQLAlchemy/>
-.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,071 | 🐛 135 | 🌐 Python | 📅 2026-11-01
+.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,072 | 🐛 135 | 🌐 Python | 📅 2026-11-01
 .. \_Pyramid: <https://trypyramid.com/>
 .. \_pyramid\_restler: <https://github.com/wylee/pyramid_restler> ⚠️ Archived
 .. \_pyramid\_sacrud: <https://pyramid-sacrud.readthedocs.io/>
 .. \_pyramid\_sqlalchemy: <https://pyramid-sqlalchemy.readthedocs.io/>
 .. \_sacrud: <https://sacrud.readthedocs.io/>
 .. \_SQLA-wrapper: <https://github.com/jpscaletti/sqla-wrapper> ⚠️ Archived
-.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,411 | 🐛 7 | 🌐 Python | 📅 2026-11-01
+.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,411 | 🐛 8 | 🌐 Python | 📅 2026-11-02
 .. \_Zope: <https://www.zope.org/>
 .. \_zope.sqlalchemy: <https://pypi.org/project/zope.sqlalchemy/>
 .. \_context-async-sqlalchemy: <https://github.com/krylosov-aa/context-async-sqlalchemy> ⭐ 63 | 🐛 6 | 🌐 Python | 📅 2026-06-14
@@ -516,9 +516,9 @@ sqlalchemy\_mixins\_
 A set of well-tested mixins that brings Active Record, Django-like queries, nested eager load and beauty **repr** to your SQLAlchemy.
 
 .. \_paginate\_sqlalchemy: <https://github.com/Pylons/paginate_sqlalchemy> ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2020-03-23
-.. \_sandman2: <https://github.com/jeffknupp/sandman2> ⭐ 2,043 | 🐛 45 | 🌐 Python | 📅 2026-10-26
+.. \_sandman2: <https://github.com/jeffknupp/sandman2> ⭐ 2,043 | 🐛 45 | 🌐 Python | 📅 2026-11-02
 .. \_sqlalchemy\_mixins: <https://github.com/absent1706/sqlalchemy-mixins> ⭐ 785 | 🐛 28 | 🌐 Python | 📅 2024-09-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
