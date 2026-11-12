@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 535,270 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 535,876 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 334,072 | 🐛 22 | 🌐 Python | 📅 2026-11-08
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 535,270 | 🐛 103 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 334,297 | 🐛 24 | 🌐 Python | 📅 2026-11-08
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 535,876 | 🐛 103 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -131,7 +131,7 @@ core support and its own asynchronous ORM interface.
 .. \_Sphinx: <https://sphinxsearch.com/>
 .. \_sphinxalchemy: <https://sphinxalchemy.readthedocs.io/>
 .. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,786 | 🐛 54 | 🌐 Python | 📅 2022-02-12
-.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,118 | 🐛 288 | 🌐 Python | 📅 2026-10-08
+.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,119 | 🐛 289 | 🌐 Python | 📅 2026-10-08
 
 ## Documentation
 
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,275 | 🐛 208 | 🌐 Python | 📅 2026-11-10
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,279 | 🐛 211 | 🌐 Python | 📅 2026-11-11
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,455 | 🐛 603 | 🌐 Python | 📅 2026-11-10
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,485 | 🐛 604 | 🌐 Python | 📅 2026-11-10
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -343,7 +343,7 @@ Runs the actual upgrade/downgrade cycle with real data and does static
 analysis on migration files.
 
 .. \_charlatan: <https://github.com/uber/charlatan> ⚠️ Archived
-.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,811 | 🐛 212 | 🌐 Python | 📅 2026-01-01
+.. \_factory\_boy: <https://github.com/FactoryBoy/factory_boy> ⭐ 3,811 | 🐛 211 | 🌐 Python | 📅 2026-01-01
 .. \_mixer: <https://github.com/klen/mixer> ⭐ 954 | 🐛 49 | 🌐 Python | 📅 2024-03-08
 .. \_pytest-mrt: <https://github.com/croc100/pytest-mrt> ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-26
 
@@ -488,7 +488,7 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_filteralchemy: <https://github.com/jmcarp/filteralchemy> ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2019-04-08
 .. \_Flask: <https://palletsprojects.com/p/flask/>
 .. \_Flask-SQLAlchemy: <https://pythonhosted.org/Flask-SQLAlchemy/>
-.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,074 | 🐛 130 | 🌐 Python | 📅 2026-11-09
+.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,074 | 🐛 127 | 🌐 Python | 📅 2026-11-11
 .. \_Pyramid: <https://trypyramid.com/>
 .. \_pyramid\_restler: <https://github.com/wylee/pyramid_restler> ⚠️ Archived
 .. \_pyramid\_sacrud: <https://pyramid-sacrud.readthedocs.io/>
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
