@@ -1,7 +1,7 @@
 # Awesome SQLAlchemy with stars
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
-:target: <https://github.com/sindresorhus/awesome> ⭐ 539,477 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 539,969 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome extra libraries and resources for SQLAlchemy\_.  Inspired by
 awesome-python\_.  (See also other `awesome lists`\_\_!)
@@ -10,8 +10,8 @@ Licensed under a `Creative Commons Attribution-ShareAlike 4.0 International
 License`\_\_.
 
 .. \_SQLAlchemy: <https://www.sqlalchemy.org/>
-.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 335,881 | 🐛 21 | 🌐 Python | 📅 2026-11-17
-\_\_ <https://github.com/sindresorhus/awesome> ⭐ 539,477 | 🐛 103 | 📅 2026-09-02
+.. \_awesome-python: <https://github.com/vinta/awesome-python> ⭐ 336,039 | 🐛 22 | 🌐 Python | 📅 2026-11-17
+\_\_ <https://github.com/sindresorhus/awesome> ⭐ 539,969 | 🐛 103 | 📅 2026-09-02
 \_\_ <https://creativecommons.org/licenses/by-sa/4.0/>
 
 .. contents:: Table of Contents
@@ -131,7 +131,7 @@ core support and its own asynchronous ORM interface.
 .. \_Sphinx: <https://sphinxsearch.com/>
 .. \_sphinxalchemy: <https://sphinxalchemy.readthedocs.io/>
 .. \_GINO: <https://github.com/python-gino/gino> ⭐ 2,784 | 🐛 54 | 🌐 Python | 📅 2022-02-12
-.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,123 | 🐛 290 | 🌐 Python | 📅 2026-10-08
+.. \_asyncpg: <https://github.com/MagicStack/asyncpg> ⭐ 8,122 | 🐛 290 | 🌐 Python | 📅 2026-10-08
 
 ## Documentation
 
@@ -248,7 +248,7 @@ pgai allows to easily create vector embeddings for sqlalchemy models
 and takes care of any synchronization effort. Built on top of postgres
 and pgvector.
 
-.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,547 | 🐛 10 | 🌐 Python | 📅 2026-11-05
+.. \_pgvector-python: <https://github.com/pgvector/pgvector-python> ⭐ 1,546 | 🐛 10 | 🌐 Python | 📅 2026-11-05
 .. \_pgai: <https://github.com/timescale/pgai/blob/main/docs/vectorizer/python-integration.md> ⚠️ Archived
 
 ## Internationalizations
@@ -306,7 +306,7 @@ It should work with other SQLAlchemy-supported databases to provided they suppor
 
 ## Recipes
 
-* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,295 | 🐛 218 | 🌐 Python | 📅 2026-11-19
+* <https://github.com/sqlalchemy/sqlalchemy/wiki/UsageRecipes> ⭐ 12,296 | 🐛 218 | 🌐 Python | 📅 2026-11-19
 
 ## Serialization and deserialization
 
@@ -321,7 +321,7 @@ SQLAlchemy extension for interacting models with python dictionary.
 
 .. \_marshmallow: <https://marshmallow.readthedocs.io/>
 .. \_marshmallow-sqlalchemy: <https://marshmallow-sqlalchemy.readthedocs.io/>
-.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,581 | 🐛 617 | 🌐 Python | 📅 2026-11-19
+.. \_pydantic: <https://github.com/samuelcolvin/pydantic> ⭐ 29,598 | 🐛 647 | 🌐 Python | 📅 2026-11-20
 .. \_sqlalchemy-dict: <https://github.com/meyt/sqlalchemy-dict> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-03-12
 
 ## Testing
@@ -378,7 +378,7 @@ simple API. It writes SQL so you don't have to, and it easily bolts onto
 existing database infrastructure via SQLAlchemy.
 
 .. \_Dataset: <https://dataset.readthedocs.io/>
-.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,563 | 🐛 389 | 🌐 Python | 📅 2026-11-18
+.. \_RDFLib: <https://github.com/RDFLib/rdflib> ⭐ 2,565 | 🐛 385 | 🌐 Python | 📅 2026-11-20
 .. \_rdflib-sqlalchemy: <https://github.com/RDFLib/rdflib-sqlalchemy> ⭐ 161 | 🐛 13 | 🌐 Python | 📅 2026-10-11
 .. \_PugSQL: <https://pugsql.org/>
 .. \_SQLSoup: <https://sqlsoup.readthedocs.io/>
@@ -423,7 +423,7 @@ CLI and Library that generates Mermaid and DOT Diagrams from SQLAlchemy models a
 .. \_sadisplay: <https://bitbucket.org/estin/sadisplay>
 .. \_sqlalchemy\_schemadisplay: <https://github.com/fschulze/sqlalchemy_schemadisplay> ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2025-09-19
 .. \_eralchemy: <https://github.com/Alexis-benoist/eralchemy> ⭐ 1,433 | 🐛 15 | 🌐 Python | 📅 2026-05-05
-.. \_paracelsus: <https://github.com/tedivm/paracelsus> ⭐ 176 | 🐛 12 | 🌐 Python | 📅 2026-07-20
+.. \_paracelsus: <https://github.com/tedivm/paracelsus> ⭐ 177 | 🐛 13 | 🌐 Python | 📅 2026-07-20
 
 ## Web
 
@@ -488,14 +488,14 @@ without worrying about opening or closing it when it’s not necessary.
 .. \_filteralchemy: <https://github.com/jmcarp/filteralchemy> ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2019-04-08
 .. \_Flask: <https://palletsprojects.com/p/flask/>
 .. \_Flask-SQLAlchemy: <https://pythonhosted.org/Flask-SQLAlchemy/>
-.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,073 | 🐛 128 | 🌐 Python | 📅 2026-11-14
+.. \_Flask-Admin: <https://github.com/flask-admin/flask-admin> ⭐ 6,074 | 🐛 127 | 🌐 Python | 📅 2026-11-20
 .. \_Pyramid: <https://trypyramid.com/>
 .. \_pyramid\_restler: <https://github.com/wylee/pyramid_restler> ⚠️ Archived
 .. \_pyramid\_sacrud: <https://pyramid-sacrud.readthedocs.io/>
 .. \_pyramid\_sqlalchemy: <https://pyramid-sqlalchemy.readthedocs.io/>
 .. \_sacrud: <https://sacrud.readthedocs.io/>
 .. \_SQLA-wrapper: <https://github.com/jpscaletti/sqla-wrapper> ⚠️ Archived
-.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,410 | 🐛 13 | 🌐 Python | 📅 2026-11-17
+.. \_webargs: <https://github.com/marshmallow-code/webargs> ⭐ 1,410 | 🐛 13 | 🌐 Python | 📅 2026-11-20
 .. \_Zope: <https://www.zope.org/>
 .. \_zope.sqlalchemy: <https://pypi.org/project/zope.sqlalchemy/>
 .. \_context-async-sqlalchemy: <https://github.com/krylosov-aa/context-async-sqlalchemy> ⭐ 63 | 🐛 6 | 🌐 Python | 📅 2026-06-14
@@ -521,4 +521,4 @@ A set of well-tested mixins that brings Active Record, Django-like queries, nest
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
